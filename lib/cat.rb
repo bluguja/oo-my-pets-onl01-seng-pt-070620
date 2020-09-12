@@ -1,5 +1,4 @@
 class Cat
-Cat.rb
 
   attr_accessor  :owner, :mood
   attr_reader :name
